@@ -17,8 +17,8 @@
 	index.html: 
 		目前只有基本的滚动容器生成演示
 
-[模块详情](https://github.com/huoxuhuoxu/touch-scroll-diy)
-	
+[touch-scroll-diy模块详情](https://github.com/huoxuhuoxu/touch-scroll-diy)
+[演示案例使用脚手架](https://github.com/huoxuhuoxu/ReactFrontProjectStructure)	
 	
 
 
