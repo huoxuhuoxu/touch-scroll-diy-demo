@@ -12,7 +12,7 @@
 		npm start
 		手机电脑处于同一wifi下,手机访问电脑的ip地址,端口号: 8099, http://xxx.xxx.xx.xx:8099
 
-##### rely on
+##### explain
 	
 	index.html: 
 		目前只有基本的滚动容器生成演示
