@@ -17,7 +17,7 @@
 	index.html: 
 		目前只有基本的滚动容器生成演示
 
-
+[模块详情](https://github.com/huoxuhuoxu/touch-scroll-diy)
 	
 	
 
